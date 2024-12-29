@@ -4,7 +4,7 @@
 Hi, I am Varsan J. I am an aspring engineer who has been a lifelong STEM person. From robotics to circuit design to programming, I enjoy all of it. I started programming when I was 12, stuck at home in the middle of the Covid-19 Pandemic. Since then, I have developed my skills through Youtube tutorials, practising concepts, certifications, and school curriculum courses. One of my early projects was making a automated bot for the Discord social media platform and hosting it in over 100 servers using UptimeRobot and Replit. I have always found logic interesting, which explains why it appeals to me.
 
 ### Programming Languages
-Python, C#, Visual Basics, Java, HTML, PBASIC, Arduino C, Assembly (introductory experience with registars, jumps, etc.)
+Python, C#, Visual Basics, Java, HTML, PBASIC, Arduino C, Assembly Language (eg. Jumps, Registers)
 
 ### Programming Environments
 Visual Studio, Visual Studio Code, PyCharm, Replit, GitHub, Devpost
