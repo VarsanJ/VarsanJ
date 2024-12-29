@@ -9,11 +9,11 @@ Python, C#, Visual Basics, Java, HTML, PBASIC, Arduino C, Assembly (introductory
 ### Programming Environments
 Visual Studio, Visual Studio Code, PyCharm, Replit, GitHub, Devpost
 
-### Programming Certifications and Experience
-Microsoft Foundational Professional Certification in C# - July 2024
-Python 101 For Data Science - May 2024
-TEJ3M Final Mark - 97%
-ICS3U Final Mark - 96%
+### Programming Certifications and Experience (Non-Project)
+> Microsoft Foundational Professional Certification in C# - July 2024
+> Python 101 For Data Science - May 2024
+> TEJ3M Final Mark - 97%
+> ICS3U Final Mark - 96%
 
 ## 3 Fun Facts about Me
 > 1) I am an avid hiker and outdoor adventurist! 
