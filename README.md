@@ -12,8 +12,10 @@ Visual Studio, Visual Studio Code, PyCharm, Replit, GitHub, Devpost
 ### Programming Certifications and Experience (Non-Project)
 > - Microsoft Foundational Professional Certification in C# - July 2024
 > - Python 101 For Data Science - May 2024
-> - TEJ3M Final Mark - 97%
-> - ICS3U Final Mark - 96%
+> - Grade 11 Computer Engineering Final Mark - 97%
+> - Grade 12 Computer Engineering Final Mark - 97%
+> - Grade 12 Robotics Engineering Final Mark - 98%
+> - Grade 11 Computer Science Final Mark - 96%
 
 ## 3 Fun Facts about Me
 > 1) I am an avid hiker and outdoor adventurist! 
