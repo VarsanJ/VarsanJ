@@ -9,10 +9,10 @@ Hi, I am Varsan Jeyakkumar. I am an aspring electrical engineer at the Universit
 | Python | 2020 | [Parrot](https://github.com/VarsanJ/Parrot), a discord bot with numerous capabilities
 | Visual Basics | 2023 | [Accident Stiumlator](https://github.com/VarsanJ/Accident-Stimulator), a roleplay game allowing a user to investigate an accident
 | C# | 2024 | [Tic-Tac-Toe](https://github.com/VarsanJ/Tic-Tac-Toe), a fun one-player game of tic-tac-toe with a difficult to beat AI
-| C++ | 2024 | [VarAyu](https://github.com/VarsanJ/VarAyu_RubeGoldberg), a a rube-goldberg machine where servo motors and sensors were programmed
+| C++ | 2024 | [Relief Jacket](https://github.com/VarsanJ/Relief_Jacket), a hardware project connected to an online database to connect people to emergency responders in times of need
 | Java | 2025 | [SeeSort](https://github.com/VarsanJ/SeeSort), a visual application which demonstrates three different sorting algorithms
 
-Furthermore, I have some limited experience in HTML and Assembly.
+Furthermore, I have experience in HTML and Assembly.
 
 ### Programming Certifications and Experience (Non-Project)
 > - Microsoft Foundational Professional Certification in C# - July 2024
