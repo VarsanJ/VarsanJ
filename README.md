@@ -1,7 +1,9 @@
 # About Me
 
 ## Introduction
-Hi, I am Varsan Jeyakkumar. I am an aspring electrical engineer at the University of Toronto who has been a lifelong STEM person. From robotics to circuit design to programming, I have discovered a passion in the field from my experience and education. I started programming when I was 12, learning Python at home in the middle of the Covid-19 Pandemic. Since then, I have advanced my skills through curriculum, projects, and certifications. One of my early projects was Parrot (see below), a Discord Bot programmed using discord.py with utility, moderative, and administrative functions. This project was deployed in over 100 servers and was published on top.gg, a major Discord bot lookup portal. Since then, I have immersed myself in more languages and gained skills from algorithms to polymorphism to abstract data types. 
+Hi, I am Varsan Jeyakkumar, an electrical engineering student at the University of Toronto. 
+I started programming in Grade 7, as I was stuck at home during the Covid-19 pandemic. My first project was Parrot, a chatbot integrated with Discord API and UptimeRobot which provided moderative, administrative, and logistical functions within Discord Servers. This bot was deployed in over 100 Discord Servers and was published on top.gg. 
+From there on, I expanded my programming knowledge and understanding of software and hardware through self-learning and courses in school. From hackathon projects using Arduino to visual stimulations of sorting algorithms on Java, I am always keen to learn and try out new things. 
 
 ### Programming Languages
 | Language       | Since          | Highlighted Project |
